@@ -2,7 +2,8 @@
 
 # Project Overview
 
-This project aims to predict stock prices based on historical data, applying machine learning algorithms to learn patterns and trends in the data. With reliable forecasting, investors and analysts can make data-driven decisions to optimize their strategies.
+This project aims to predict stock prices based on historical data, applying machine learning algorithms to learn patterns and trends in the data.
+With reliable forecasting, investors and analysts can make data-driven decisions to optimize their strategies.
 
 # Tech Stack
 
@@ -23,13 +24,21 @@ XGBoost: a gradient-boosted decision tree algorithm for complex, non-linear mode
 # Installation
 
 Clone the repository:
+
 bash
+
 Copy code
+
 git clone https://github.com/your-username/stock-price-prediction.git
+
 Install dependencies:
+
 bash
+
 Copy code
+
 pip install -r requirements.txt
+
 
 # Data Collection
 
