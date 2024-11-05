@@ -3,6 +3,7 @@
 # Project Overview
 
 This project aims to predict stock prices based on historical data, applying machine learning algorithms to learn patterns and trends in the data.
+
 With reliable forecasting, investors and analysts can make data-driven decisions to optimize their strategies.
 
 # Tech Stack
